@@ -9,3 +9,7 @@ def subtract(a,b):
     return a-b
 
 #now raees_developer want to merge the line of code into main branch
+
+
+#IF 2 DEVELOPER working on same file or same function or same code then 1st devleopr commited first after then 
+#2nd develope commited a conflict is generated u have to sove those conflict
