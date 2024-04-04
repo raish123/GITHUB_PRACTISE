@@ -5,8 +5,8 @@ def add(a,b):
 
 #another branch_root(raees_developer) will develop newline_code into app.py file 
 
-def subtract(a,b):
-    return a-b
+def subtract(a,b,c):
+    return a-b-c
 
 #now raees_developer want to merge the line of code into main branch
 
